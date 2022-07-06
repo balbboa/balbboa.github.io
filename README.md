@@ -1,4 +1,11 @@
-Portfolio
-=========================
+<h1 align="center"> Links Bio </h1>
 
-https://balbboa.github.io
+<div align="center">
+  <img width="200" height="200" src="https://github.com/balbboa/balbboa.github.io/blob/main/images/me.png">
+</div>
+  
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20FUNCIONAMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+<p align="center"> https://balbboa.github.io/ </p>
