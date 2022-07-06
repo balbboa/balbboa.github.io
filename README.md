@@ -1,7 +1,7 @@
 <h1 align="center"> Links Bio </h1>
 
 <div align="center">
-  <img width="200" height="200" src="https://github.com/balbboa/balbboa.github.io/blob/main/images/me.png">
+  <img width="600" height="400" src="https://github.com/balbboa/balbboa.github.io/blob/main/images/bg.gif?raw=true">
 </div>
   
 <p align="center">
